@@ -1,5 +1,4 @@
-ΠΑΠΑΔΟΠΟΥΛΟΣ ΧΑΡΗΣ 2121 </br>
-Εξάμηνο 16ο</br>
-har.pap@hotmail.com</br>
-**ΣΗΜΑΝΤΙΚΟ**: Εβαλα τα στοιχεια μου στο πρωτο repository της 1ης σειρας ασκησεων γιατι τα ειχα ξεχασει!
-https://github.com/dip-course/1o-set-askiseon-harpap
+ΠΑΠΑΔΟΠΟΥΛΟΣ ΧΑΡΗΣ </br>
+A python implementation of the Hough Transformation algorithm, a feature extraction technique used in image analysis,
+ computer vision and digital image processing. This implementation detects circles in images.</br>
+ Preview the algorithms on the Jupyter files.
